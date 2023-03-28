@@ -1,0 +1,44 @@
+#include<stdio.h>
+#include<conio.h>
+
+struct DiemKhongGian
+{
+	float x;
+	float y;
+	float z;
+};
+typedef struct DiemKhongGian DIEMKG;
+
+void NhapDiemKhongGian(DIEMKG&);
+void XuatDiemKhongGian(DIEMKG);
+
+void NhapDiemKhongGian(DIEMKG& d)
+{
+	float temp;
+	printf("\nNhap x : ");
+	scanf_s("%f", &temp);
+	d.x = temp;
+
+	printf("\nNhap y : ");
+	scanf_s("%f", &temp);
+	d.y = temp;
+
+	printf("\nNhap z : ");
+	scanf_s("%f", &temp);
+	d.z = temp;
+}
+void XuatDiemKhongGian(DIEMKG d)
+{
+	printf("(%8.3f, %8.3f, %8.3f)", d.x, d.y, d.z);
+
+}
+
+int main()
+{
+	DIEMKG d;
+	NhapDiemKhongGian(d);
+	XuatDiemKhongGian(d);
+
+	_getch();
+	return 0;
+}
