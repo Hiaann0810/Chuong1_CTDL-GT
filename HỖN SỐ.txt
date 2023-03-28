@@ -1,0 +1,19 @@
+﻿'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Users\HP\source\repos\Khai báo dữ liệu cấu trúc hỗn số\Debug\Khai báo dữ liệu cấu trúc hỗn số.exe'. Symbols loaded.
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2358 has exited with code 0 (0x0).
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Khai báo dữ liệu cấu trúc hỗn số.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x3274 has exited with code 0 (0x0).
+The thread 0x85c has exited with code 0 (0x0).
+The thread 0x390 has exited with code 0 (0x0).
+The program '[2636] Khai báo dữ liệu cấu trúc hỗn số.exe' has exited with code 0 (0x0).
